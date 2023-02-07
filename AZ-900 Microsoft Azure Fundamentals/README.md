@@ -11,6 +11,8 @@
   | ❗ | An important limitation, challenge or an exception |
   | 📝 | Common exam area |
   | 🤗 | Fact / trivia (most likely unrelated to the exam) |
+  
+### [AZ-900 Exam](https://www.examtopics.com/exams/microsoft/az-900/view/7/): Microsoft AZ-900 Exam Questions
 
 ### [AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900): Microsoft Azure Fundamentals
 
